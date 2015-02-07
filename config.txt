@@ -1,0 +1,5 @@
+services=financial_inquiry_service_wsp
+operations=penaltyInquiry verifyAcctNumber
+pathFile=\Users\90334\testScripts
+url=https://172.25.194.41
+uri=5503/NFBranchExService/FinancialInquiryService
